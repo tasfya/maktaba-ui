@@ -1,6 +1,9 @@
-# [Maktaba UI]
+# Maktaba UI
 
 ## Development guide.
+
+Runing dev server: `gulp dev`
+
 
 The site is decomposed using a jQuery script, you have to put the components
 inside ./html-component and include them using:
